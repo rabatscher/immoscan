@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Wohnen an bester Hanglage mit Sicht auf die Aare und Aarauer Innens...",
+    "price": "Preis auf Anfrage",
+    "location": "Weinbergstrasse 26, 5000 Aarau",
+    "property_type": "Einfamilienhaus",
+    "rooms": 7.5,
+    "area_sqm": 263
+  },
+  {
+    "title": "Urban und ruhig wohnen im begehrten Aarauer Zelgliquartier",
+    "price": "CHF 1’490’000.–",
+    "location": "5000 Aarau",
+    "property_type": "Etagenwohnung",
+    "rooms": 4.5,
+    "area_sqm": 122
+  },
+  {
+    "title": "Traumanwesen an bester Lage mit viel Platz",
+    "price": "CHF 3’270’000.–",
+    "location": "5000 Aarau",
+    "property_type": "Villa",
+    "rooms": 10.5,
+    "area_sqm": 350
+  },
+  {
+    "title": "Wohnen mit Charakter: Doppelhaushälfte mit Wintergarten, Kamin und vie",
+    "price": "Preis auf Anfrage",
+    "location": "5000 Aarau",
+    "property_type": "Doppelhaushälfte",
+    "rooms": 4.5,
+    "area_sqm": 148
+  },
+  {
+    "title": "Seltene Gelegenheit Wohnen zwischen Aare und Altstadt in wenigen Gehminuten alles erreichbar",
+    "price": "CHF 900’000.–",
+    "location": "5000 Aarau",
+    "property_type": "Doppelhaushälfte",
+    "rooms": 4.5,
+    "area_sqm": 119
+  },
+  {
+    "title": "Ihr neues Zuhause: Ruhig gelegen mit Platz zum Entfalten",
+    "price": "CHF 1’250’000.–",
+    "location": "Auf Anfrage 1, 5000 Aarau",
+    "property_type": "Haus",
+    "rooms": 6.5,
+    "area_sqm": 150
+  },
+  {
+    "title": "RESERVIERT! Mehrfamilienhaus an attraktiver Lage mit TOP-Rendite!",
+    "price": "Preis auf Anfrage",
+    "location": "5000 Aarau",
+    "property_type": "Mehrfamilienhaus",
+    "rooms": 14,
+    "area_sqm": 280
+  },
+  {
+    "title": null,
+    "price": "CHF 1’420’000.–",
+    "location": "Weinbergstrasse 68, 5000 Aarau",
+    "property_type": "Wohnung",
+    "rooms": 4.5,
+    "area_sqm": 104
+  },
+  {
+    "title": null,
+    "price": "CHF 1’540’000.–",
+    "location": "Weinbergstrasse 68, 5000 Aarau",
+    "property_type": "Wohnung",
+    "rooms": 4.5,
+    "area_sqm": 112
+  },
+  {
+    "title": null,
+    "price": "CHF 1’250’000.–",
+    "location": "Stapferstrasse 3, 5000 Aarau",
+    "property_type": "Wohnung",
+    "rooms": 6,
+    "area_sqm": 115
+  },
+  {
+    "title": null,
+    "price": "Preis auf Anfrage",
+    "location": "Weinbergstrasse 68, 5000 Aarau",
+    "property_type": "Wohnung",
+    "rooms": 4.5,
+    "area_sqm": 118
+  },
+  {
+    "title": null,
+    "price": "CHF 1’195’000.–",
+    "location": "5000 Aarau",
+    "property_type": "Wohnung",
+    "rooms": 4.5,
+    "area_sqm": null
+  },
+  {
+    "title": null,
+    "price": "Preis auf Anfrage",
+    "location": "5000 Aarau",
+    "property_type": "Wohnung",
+    "rooms": 5,
+    "area_sqm": null
+  }
+]
